@@ -1,3 +1,9 @@
+#ignore rdf files
+files
+
+#ignore generated files
+lib
+
 # Logs
 logs
 *.log
