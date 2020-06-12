@@ -3,7 +3,7 @@ const _ = require('lodash');
 const { hrtime } = require("process");
 const promise = require('bluebird');
 const config = require('../config')
-const files = helper.getFilesFromDir('files/epub', ['.rdf']);
+const files = helper.getFilesFromDir('cache/epub', ['.rdf']);
 
 console.log("Processing files : " ,files.length)
 

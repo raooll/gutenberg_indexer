@@ -1,5 +1,5 @@
 #ignore rdf files
-files
+cache
 
 #ignore generated files
 lib
